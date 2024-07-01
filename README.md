@@ -11,7 +11,7 @@
    
    *a bipartite graph representation of nodes in B&B, IL and GCNN*   
 
-4. **Reinforcement Learning for Variable Selection in a Branch and Bound Algorithm.** [CPAIOR 2020]
+4. **Reinforcement Learning for Variable Selection in a Branch and Bound Algorithm.** CPAIOR 2020
    
    *prove minimise subtree equal to minimise the whole tree with DFS*  
 
@@ -19,13 +19,13 @@
    
     *try to generalizes across heterogeneous MILPs, add tree feature to net,not only force node feature, IL*
 
-6. **Solving Mixed Integer Programs Using Neural Networks.** [arXiv 2021 Deepmind,Google]
+6. **Solving Mixed Integer Programs Using Neural Networks.** arXiv 2021 Deepmind,Google
 
-7. **An Improved Reinforcement Learning Algorithm for Learning to Branch.** [arXiv 2022 Beihang,Huawei]
+7. **An Improved Reinforcement Learning Algorithm for Learning to Branch.** arXiv 2022 Beihang,Huawei
     
    *Offline RL then online RL, use offline data to accelerate training, modeify Double DQN and GCNN, reward: dual integral*  
 
-8. **Branch Ranking for Efficient Mixed-Integer Programming via Offline Ranking-based Policy Learning.** [ECML PKDD 2022 Shangjiao,Huawei]  
+8. **Branch Ranking for Efficient Mixed-Integer Programming via Offline Ranking-based Policy Learning.** ECML PKDD 2022 Shangjiao,Huawei   
     
     *only highest scores SB action and action belong to top k trajectories from current s to end, Offline RL, GCNN*  
 
