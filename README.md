@@ -63,4 +63,8 @@
     *Use RL method to argument data to train IL, online rl agent use to select action in expert(SB) or trained il net(GCNN) output, offline rl agent ues to judge if the data is good enough by R>V(s)
     R is the real Rturn-to-Go and V(s) is the offline rl estimate value, method idea seems borrowed from [Self-Imitation Learning]*
 
+17. **CAMBranch: Contrastive Learning with Augmented MILPs for Branching.** ICLR 2024 Tsinghua
+    
+    *By use x^ = x+s to augment MILPs(AMILP), AMILP have some characteristic with the defaul MILP, i.e. same optimal solutions, same variable selection in strong branch
+    besides, use Contrastive learning to learn the correspondence of AMILP and MILP, finally IL for branch*
     
