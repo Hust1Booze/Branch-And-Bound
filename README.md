@@ -13,7 +13,7 @@
 
 4. **Reinforcement Learning for Variable Selection in a Branch and Bound Algorithm.** CPAIOR 2020
    
-   *prove minimise subtree equal to minimise the whole tree with DFS*  
+   *proof minimise subtree equal to minimise the whole tree when node selection alg is DFS*  
 
 5. **Parameterizing Branch-and-Bound Search Trees to Learn Branching Policies.** AAAI 2021 [Code](https://github.com/ds4dm/branch-search-trees)
    
