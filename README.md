@@ -64,7 +64,7 @@
 
 17. **Towards Imitation Learning to Branch for MIP: A Hybrid Reinforcement Learning based Sample Augmentation Approach.** ICLR 2024 Lenovo,ShangJiao
 
-    *Use RL method to argument data to train IL, online rl agent use to select action in expert(SB) or trained il net(GCNN) output, offline rl agent ues to judge if the data is good enough by R>V(s)?
+    *Use RL method to argument data to train IL, online rl agent use to select action in expert(SB) or trained il net(GCNN) output, offline rl agent ues to judge if the data is good enough by R>V(s)
     R is the real Rturn-to-Go and V(s) is the offline rl estimate value, method idea seems borrowed from [Self-Imitation Learning]*
 
     
