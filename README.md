@@ -4,7 +4,7 @@
 
 2. **Learning to Branch with Offline Reinforcement Learning.** ICLR 2022 Reject
    
-   *Learning a score net G(a|s) of Strong Branch, In RL, if a not in top(G(a|s)),give a negative reward  
+   *Learning a score net G(a|s) of Strong Branch, In RL, if action not in top(G(a|s)), give a negative reward  
    RL with modify A2C, Reward: improvement of dual bound*   
   
 3. **Exact Combinatorial Optimization with Graph Convolutional Neural Networks.** NeurIPS 2019 [Code](https://github.com/ds4dm/learn2branch)
